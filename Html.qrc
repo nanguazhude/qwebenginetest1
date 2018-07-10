@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/html">
+        <file>maintest.html</file>
+    </qresource>
+    <qresource prefix="/js">
+        <file>test1.txt</file>
+    </qresource>
+</RCC>

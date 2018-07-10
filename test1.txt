@@ -1,0 +1,8 @@
+(function () {
+    var p = document.createElement("p");
+    var txt = document.createTextNode("Append Text!");
+    p.appendChild( txt );
+    document.body.appendChild(p);
+})()
+
+
